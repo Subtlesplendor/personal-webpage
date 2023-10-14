@@ -23,14 +23,14 @@ section {
 
 .text-highlight {
   background-color: var(--highlight);
-  color: var(--background);
+  //color: var(--background);
   padding: 0 0.1rem;
   border-radius: 5px;
 }
 
 ::selection {
-  background: var(--tertiary);
-  color: var(--border);
+  background: var(--highlight);
+  color: var(--text);
 }
 
 p,
@@ -57,20 +57,37 @@ ul,
 }
 
 a {
-  font-weight: 600;
+  //font-weight: 600;
+  //font-family: var(--codeFont);
   text-decoration: none;
   transition: color 0.2s ease;
   color: var(--secondary);
 
+  
+
   &:hover {
-    color: var(--tertiary) !important;
+    //color: var(--tertiary) !important;
+    text-decoration: underline;
+  }
+
+  &:not(.internal) {
+    background-image: url('./static/link.svg');
+    background-position: right 60%;
+    background-repeat:no-repeat;
+    background-size: 0.7em;
+    padding-right: 0.75em;
   }
 
   &.internal {
     text-decoration: none;
-    background-color: var(--border);
+    //font-family: var(--bodyFont);
+    //background-color: var(--);
     padding: 0 0.1rem;
     border-radius: 5px;
+
+    &:hover {
+        text-decoration: underline;
+    }
   }
 }
 
@@ -241,9 +258,9 @@ h4,
 h5,
 h6,
 thead {
-  font-family: var(--cFont);
+  font-family: var(--headerFont);
   color: var(--header);
-  font-weight:400;
+  font-weight:600;
   margin-bottom: 0;
 
   article > & > a {
@@ -479,3 +496,7 @@ ol.overflow {
     padding-left: 1rem;
   }
 }
+
+
+
+

@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "➿🔮 Johan Lövgren",
+    pageTitle: "Johan Lövgren",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     theme: {
       typography: {
         header: "Source Sans Pro",
-        body: "Source Sans Pro",
+        body: "Source Serif Pro",
         code: "Source Code Pro",
       },
       colors: {
@@ -25,7 +25,7 @@ const config: QuartzConfig = {
           header: "#100F0F",
           secondary: "#24837B",
           tertiary: "#205EA6",
-          highlight: "#AD8301",
+          highlight: "#FCEEB8",
         },
         darkMode: {
           background: "#100F0F",
@@ -73,3 +73,5 @@ const config: QuartzConfig = {
 }
 
 export default config
+
+
