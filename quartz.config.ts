@@ -73,5 +73,3 @@ const config: QuartzConfig = {
 }
 
 export default config
-
-
