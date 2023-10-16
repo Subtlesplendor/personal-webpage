@@ -1,5 +1,5 @@
 ---
-title: Welcome!
+title: About me
 ---
 
 I am a programmer and parent by day, and a physicist by night. I live in Uppsala, Sweden, where I work as a systems developer at [Uppsala Monitoring Centre](https://who-umc.org/), developing and maintaining a web-based system for monitoring the safety of medicines. I have a Masters degree in Engineering Physics, and a PhD in theoretical physics, both from [Uppsala University](https://www.uu.se/). I have a stipend from the Lennanders foundation for pursuing research which focuses on theoretical methods for early-universe phase transitions. Currently I am on 50% parental leave.
