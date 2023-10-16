@@ -15,6 +15,10 @@ import { QuartzComponent } from "../../components/types"
 import { googleFontHref, joinStyles } from "../../util/theme"
 import { Features, transform } from "lightningcss"
 
+import "@fontsource/source-code-pro"
+import "@fontsource/source-sans-pro"
+import "@fontsource/source-serif-pro"
+
 type ComponentResources = {
   css: string[]
   beforeDOMLoaded: string[]
