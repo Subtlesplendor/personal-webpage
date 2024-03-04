@@ -25,11 +25,11 @@ Here is a curated subset of my published papers—for a full list of my papers, 
 [Nucleation at Finite Temperature: A Gauge-Invariant Perturbative Framework (PRL, 2023)](https://inspirehep.net/literature/1987866)\
 *Johan Löfgren, Michael J. Ramsey-Musolf, Philipp Schicho, Tuomas V.I. Tenkanen*
     > In this pair of papers, we show how to perform a gauge-invariant calculation of the nucleation rate in models with radiative barriers. This work emphasizes that a combination of modern 3D EFT methods and the modified expansion $\lambda \sim g^3$ is enough to consistently calculate gauge-invariant nucleation rates when dealing with radiative barriers.
-5. [Radiative first-order phase transitions to next-to-next-to-leading order](https://inspirehep.net/literature/2082546)\
+5. [Radiative first-order phase transitions to next-to-next-to-leading order (PRD, 2022)](https://inspirehep.net/literature/2082546)\
 *Andreas Ekstedt, Oliver Gould, Johan Löfgren*
     > This work is also a synthesis of modern 3D EFT methods, and mine and Andreas's work on the $\lambda \sim g^3$ expansion. Here we develop new perturbative techniques by performing a consistent combination of 3D EFT techniques and the modified expansion. Then we use these techniques to calculate static thermodynamical quantities in the SU(2)+Higgs model to higher orders than previously reached. We compare our perturbative calculations to lattice simulations and find good agreement.
 
-6. [Stop comparing resummation methods](https://inspirehep.net/literature/2622621)\
+6. [Stop comparing resummation methods (J. Phys. G, 2023)](https://inspirehep.net/literature/2622621)\
 *Johan Löfgren*
     > In this essay I argue that resummation methods should be backed up by top-down EFTs, and that once an approximation scheme is chosen it is meaningless to compare resummation methods. Furthermore, using EFT methods together with strict expansions dissolves many confusing problems related to phase transition calculations.
 
